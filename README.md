@@ -1,3 +1,5 @@
+Create [Firebase](console.firebase.google.com) project. Include your Firebase config variables in .env. The variables of .env file is same as properties of env in next.config.js.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
